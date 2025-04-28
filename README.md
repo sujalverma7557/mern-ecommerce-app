@@ -15,12 +15,6 @@ A fully functional and responsive eCommerce application built with the MERN stac
   
 ---
 
-## 📸 Screenshots
-
-![Homepage Screenshot](https://via.placeholder.com/600x400?text=Homepage+Screenshot)
-![Product Page Screenshot](https://via.placeholder.com/600x400?text=Product+Page+Screenshot)
-
----
 
 ## 🔧 Technologies Used
 
@@ -41,15 +35,3 @@ A fully functional and responsive eCommerce application built with the MERN stac
   
 ---
 
-## 🛠 Installation
-
-### Prerequisites
-
-- Node.js (LTS)
-- MongoDB instance (you can use a local MongoDB server or [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) for cloud deployment)
-
-### Installation Steps
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/realtime-ecommerce-app.git
